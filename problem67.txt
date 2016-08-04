@@ -1,0 +1,3 @@
+from problem17 import mx_path_sum
+
+print max_path_sum('p067_triangle.txt')
